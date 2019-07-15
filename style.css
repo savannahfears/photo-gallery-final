@@ -1,0 +1,14 @@
+img{
+  height: 225px;
+  width: 225px;
+}
+h1{
+  color: white;
+  font-family: 'Raleway', sans-serif;
+  font-size: 50px;
+  background-image: linear-gradient(to right, red, orange, yellow, green, blue, purple, pink);
+}
+
+img:hover {
+  transform: scale(1.2);
+}
